@@ -15,7 +15,7 @@ listaDestino = file['Destino']
 def autoTransfer():
 
     if(len(listaDestino) != len(listaOrigem)):
-        input("A quantidade de Origem está diferente da quantidade de Destino\nVerifique se cada origem tem seu destino")
+        input("A quantidade de Origedm está diferente da quantidade de Destino\nVerifique se cada origem tem seu destino")
         return
     for i in range(len(listaDestino)):
         try:
