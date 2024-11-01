@@ -1,6 +1,6 @@
 <h1>Auto Transfer</h1>
 
-<p>Programa para automatizar a transferia de arquivos utilizando uma planilha para definir os diretórios de origem e destino</p>
+<p>Programa para automatizar a transferência de arquivos utilizando uma planilha para definir os diretórios de origem e destino</p>
 
 <h2>Como baixar</h2>
 
